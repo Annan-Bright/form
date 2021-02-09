@@ -24,4 +24,4 @@ class MyForm extends React.Component {
   }
 }
 
-export default MyForm;
+export default form;
